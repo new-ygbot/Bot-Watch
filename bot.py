@@ -26,7 +26,7 @@ async def bot(c: Client, msj: Message):
     usertext =  msj.text
     group_id = -1001728956224
     
-    #if username == adminbot or username == user_accept:
+    if username == adminbot or username == user_accept:
     #Elimine el comentado para que el bot se use con seguridad
     if True:
         msg = "Leyendo.."
