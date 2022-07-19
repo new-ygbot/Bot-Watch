@@ -5,7 +5,6 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import config
 import requests
 import hostfollow
-import bs4
 
 
 adminbot = config.adminbot
