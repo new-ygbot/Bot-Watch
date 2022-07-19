@@ -28,7 +28,6 @@ async def bot(c: Client, msj: Message):
     
     if username == adminbot or username == user_accept:
     #Elimine el comentado para que el bot se use con seguridad
-    if True:
         msg = "Leyendo.."
 
         if '/start' in usertext:
