@@ -38,7 +38,6 @@ async def bot(c: Client, msj: Message):
             await app.send_message(group_id,f"Usuario {username} inicio sesion")
             return
         elif '/adduser' in usertext:
-            
             if adminbot == username:
                 user = usertext.split(" ")[1]
                 list.append(config.useraccept,user )
