@@ -1,10 +1,10 @@
-apiid = 16536294
+apiid = 16643256
 
-apihash = "0c780f6db3124fafbdc3dcde437e6f21"
+apihash = "000d66c8f9c490c81dd64d7a48f55d1d"
 
-token = "5513331143:AAEuIifc1VvCEANfrRbWsfDDkkdc6zfrFbQ"
+ficha  =  "5513331143:AAEuIifc1VvCEANfrRbWsfDDkkdc6zfrFbQ"
 
-adminbot = "rockstar984"
-admin_id = 1180073584
+administradorbot   =   "nuevoss01"
+admin_id = 5269238222
 
 useraccept = []
